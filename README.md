@@ -32,6 +32,9 @@ Fast landing pages and compact small business websites.
 - Website redesign: https://andrrjey.github.io/2code-site/website-redesign.html
 - Telegram lead routing: https://andrrjey.github.io/2code-site/telegram-leads.html
 - Small business websites: https://andrrjey.github.io/2code-site/small-business-websites.html
+- Pricing: https://andrrjey.github.io/2code-site/pricing.html
+- Resources: https://andrrjey.github.io/2code-site/resources.html
+- Remote web studio: https://andrrjey.github.io/2code-site/remote-web-studio.html
 
 ## Languages
 
